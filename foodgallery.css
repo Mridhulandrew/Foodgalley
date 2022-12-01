@@ -1,0 +1,37 @@
+body{
+    background-image:url(./images/food-4k-download-for-pc-wallpaper-preview.jpg) ;
+}
+#h11{
+    color: rgb(8, 136, 240);
+    position: sticky;
+    top: 0px;
+}
+
+.parent{
+    height: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.col{
+    background-color: slategrey;
+    width: 300px;
+    height: 600px;
+    border: 2px black solid;
+    border-radius: 30px;
+}
+img{
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+}
+#butn{
+    /* background-color: rgba(71, 255, 83, 0.71); */
+    color: rgb(5, 188, 157);
+    border-radius: 30px;
+    text-align: center;
+}
